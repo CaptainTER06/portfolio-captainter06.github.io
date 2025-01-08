@@ -1,2 +1,2 @@
 # portfolio-rbourdeau.github.io
-Portfolio à réaliser en Blo c 1 SIO
+Portfolio à réaliser en Bloc 1 SIO
