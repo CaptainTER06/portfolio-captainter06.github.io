@@ -1,9 +1,9 @@
 # Bienvenue sur mon Portfolio
 
 ### Un peu plus sur ce projet...
-**IDE/Éditeur de code**: Apache NetBeans 19
-**Langages**: HTML/CSS/Bootstrap (Description/Présentation), JavaScript (Programmation)
-**Gestion des versions**: Git
+**IDE/Éditeur de code**: Apache NetBeans 19<br>
+**Langages**: HTML/CSS/Bootstrap (Description/Présentation), JavaScript (Programmation)<br>
+**Gestion des versions**: Git<br>
 **Forge logicielle**: GitHub
 
 ### Pour l'épreuve E5:
